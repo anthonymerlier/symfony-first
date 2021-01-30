@@ -1,0 +1,7 @@
+# about:
+#    path: /about/{age<\d+>?0}
+#    controller: App\Controller\HomeController::about
+#   #  defaults:
+#   #   age: 0
+#   #  requirements:
+#   #   age: \d+
